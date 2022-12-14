@@ -1,1 +1,1 @@
-cd ../ | poetry shell | jupyter-lab --MultiKernelManager.default_kernel_name='python-experimentation'
+cd ../ | jupyter-lab --MultiKernelManager.default_kernel_name='python-experimentation'
