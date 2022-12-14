@@ -1,0 +1,1 @@
+cd ../ | poetry shell | python -m ipykernel install --user --name="python-experimentation"
